@@ -9,5 +9,11 @@ public class Main {
         milkyway.Moon=2;
         milkyway.Planets=3;
 
+        SUN Solana=new SUN();
+
+        Solana.Heat="6673438";
+        Solana.readius="23234245";
+        Solana.temp="12323123c";
+
     }
 }
