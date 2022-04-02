@@ -15,5 +15,10 @@ public class Main {
         Solana.readius="23234245";
         Solana.temp="12323123c";
 
+        moon1 montero=new moon1();
+
+        montero.color="blue";
+        montero.radius="343434";
+        montero.lightintensity="9798878947895";
     }
 }
