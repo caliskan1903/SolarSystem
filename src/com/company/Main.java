@@ -15,5 +15,9 @@ public class Main {
         Solana.readius="23234245";
         Solana.temp="12323123c";
 
+        PLANET1 narwhal=new PLANET1();
+        narwhal.color="green";
+        narwhal.size="12345654854";
+
     }
 }
