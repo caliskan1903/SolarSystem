@@ -15,5 +15,10 @@ public class Main {
         Solana.readius="23234245";
         Solana.temp="12323123c";
 
+
+        planet2 perry=new planet2();
+
+        perry.color="yellow";
+        perry.size="657485km";
     }
 }
