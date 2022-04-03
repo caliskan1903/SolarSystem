@@ -13,7 +13,7 @@ public class Main {
 
         Solana.Heat="6673438";
         Solana.readius="23234245";
-        Solana.temp="12323123c";
+        Solana.temp=45;
 
         PLANET1 narwhal=new PLANET1();
         narwhal.color="green";
