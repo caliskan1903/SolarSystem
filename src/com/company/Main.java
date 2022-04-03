@@ -15,6 +15,7 @@ public class Main {
         Solana.readius="23234245";
         Solana.temp="12323123c";
 
+
         PLANET1 narwhal=new PLANET1();
         narwhal.color="green";
         narwhal.size="12345654854";
@@ -23,6 +24,13 @@ public class Main {
         montero.color="red";
         montero.radius="7665556";
         montero.lighintensity="56676ggghg";
+
+
+        moon1 montero1=new moon1();
+
+        montero1.color="blue";
+        montero1.radius="343434";
+        montero1.lightintensity="9798878947895";
 
     }
 }
